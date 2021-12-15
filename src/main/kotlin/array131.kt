@@ -18,7 +18,4 @@ fun main() {
         }
     }
     println("Min distance = $minDistance")
-
-
-
 }
